@@ -6,8 +6,19 @@
 
 <code>Agentic AI & Automation Builder | AIML Learner | Workflow Systems</code>
 
+<br />
+<br />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2600&amp;pause=800&amp;color=A3E635&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Agentic+AI+%26+Automation+Builder;LangChain+%2B+workflow+automation;n8n+pipelines+%7C+applied+ML+%7C+GCP+basics;building+useful+systems+with+AI" alt="Typing SVG" />
+</a>
+
+<br />
+<br />
+
 Building automation pipelines, AI-assisted workflows, applied ML projects, and useful systems with clean logic and sharp product instinct.
 
+<br />
 <br />
 
 <a href="https://www.linkedin.com/in/crescence-lobo-704163374/">
@@ -24,12 +35,21 @@ Building automation pipelines, AI-assisted workflows, applied ML projects, and u
 ## About Me
 
 - I build around automation, agentic AI, workflow orchestration, and practical product pipelines.
+- I am exploring **LangChain**, tool-using agents, prompt design, and Claude/OpenAI-assisted development workflows.
 - I am learning applied ML through scikit-learn, pandas, NumPy, Matplotlib, and Seaborn.
-- I explore n8n, Zapier-style automation, GitHub Actions, GCP basics, and DevOps habits.
-- I like systems that are useful under the hood and designed well on the surface.
+- I work with n8n and Zapier-style automation to turn repeatable tasks into useful systems.
+- I am building toward stronger GCP, GitHub Actions, and DevOps fundamentals.
 - Based in India.
 
 > "Still learning. Still building. Every workflow should earn its place."
+
+### Currently
+
+| Building | Learning | Exploring |
+| --- | --- | --- |
+| Automation pipelines | LangChain agent patterns | GCP and deployment basics |
+| AI-assisted workflows | Applied ML fundamentals | n8n production-style flows |
+| Practical project systems | Better prompting and tool use | Cleaner developer workflows |
 
 ---
 
@@ -53,20 +73,20 @@ Building automation pipelines, AI-assisted workflows, applied ML projects, and u
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
 
-### Automation & Agents
+### Agentic AI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
+![Tool Using Agents](https://img.shields.io/badge/Tool_Using_Agents-0F172A?style=flat&logo=githubcopilot&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat&logo=openai&logoColor=white)
+
+### Automation
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat&logo=zapier&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-111827?style=flat&logo=authelia&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat&logo=openai&logoColor=white)
-
-### Frontend & Frameworks
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ### Cloud & DevOps
 
@@ -75,7 +95,7 @@ Building automation pipelines, AI-assisted workflows, applied ML projects, and u
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-### Tools & Design
+### Design & Tools
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -104,7 +124,7 @@ Building automation pipelines, AI-assisted workflows, applied ML projects, and u
 
 ---
 
-## GitHub Trophies
+## Profile Signals
 
 <div align="center">
 
@@ -117,7 +137,7 @@ Building automation pipelines, AI-assisted workflows, applied ML projects, and u
 
 ---
 
-## Top Contributed Repositories
+## Work In View
 
 <div align="center">
 
@@ -139,6 +159,13 @@ Building automation pipelines, AI-assisted workflows, applied ML projects, and u
 </a>
 
 </div>
+
+| Repo | Why it matters |
+| --- | --- |
+| [KrishiDoot](https://github.com/Crs-Lionel/KrishiDoot) | Main active build surface for practical JavaScript/product work. |
+| [personality-prediction-project](https://github.com/Crs-Lionel/personality-prediction-project) | Applied ML project using Random Forest for personality prediction. |
+| [NOSmvp1](https://github.com/Crs-Lionel/NOSmvp1) | Python MVP workspace for product and automation experimentation. |
+| [akaay-creatives-website](https://github.com/Crs-Lionel/akaay-creatives-website) | Design-forward web project showing visual and frontend taste. |
 
 ---
 
