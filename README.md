@@ -4,19 +4,19 @@
 
 # Crs Lionel
 
-<code>Agentic AI & Automation Builder | AIML Learner | Workflow Systems</code>
+<code>Automation, ML experiments, and web tools</code>
 
 <br />
 <br />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2600&amp;pause=800&amp;color=A3E635&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Agentic+AI+%26+Automation+Builder;LangChain+%2B+workflow+automation;n8n+pipelines+%7C+applied+ML+%7C+GCP+basics;building+useful+systems+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2600&amp;pause=800&amp;color=A3E635&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Automation+flows+for+repeated+work;Python+%2B+JavaScript+projects;Applied+ML+with+pandas+and+scikit-learn;Web+tools+with+clean+interfaces" alt="Typing SVG" />
 </a>
 
 <br />
 <br />
 
-Building automation pipelines, AI-assisted workflows, applied ML projects, and useful systems with clean logic and sharp product instinct.
+I build small software projects around automation, machine learning experiments, and web interfaces. I am strongest when turning a repeated task or rough idea into a simple working tool.
 
 <br />
 <br />
@@ -34,22 +34,22 @@ Building automation pipelines, AI-assisted workflows, applied ML projects, and u
 
 ## About Me
 
-- I build around automation, agentic AI, workflow orchestration, and practical product pipelines.
-- I am exploring **LangChain**, tool-using agents, prompt design, and Claude/OpenAI-assisted development workflows.
-- I am learning applied ML through scikit-learn, pandas, NumPy, Matplotlib, and Seaborn.
-- I work with n8n and Zapier-style automation to turn repeatable tasks into useful systems.
-- I am building toward stronger GCP, GitHub Actions, and DevOps fundamentals.
+- I build automation flows that reduce repeated manual work.
+- I write Python and JavaScript projects with simple, inspectable logic.
+- I am learning applied ML through pandas, NumPy, scikit-learn, Matplotlib, and Seaborn.
+- I use n8n and Zapier-style tools to connect forms, APIs, notifications, and data handoffs.
+- I am improving my GitHub Actions, deployment, and cloud fundamentals.
 - Based in India.
 
-> "Still learning. Still building. Every workflow should earn its place."
+> "Build the thing. Explain the decisions. Improve the weak parts."
 
 ### Currently
 
 | Building | Learning | Exploring |
 | --- | --- | --- |
-| Automation pipelines | LangChain agent patterns | GCP and deployment basics |
-| AI-assisted workflows | Applied ML fundamentals | n8n production-style flows |
-| Practical project systems | Better prompting and tool use | Cleaner developer workflows |
+| Automation pipelines | Applied ML fundamentals | GCP and deployment basics |
+| Small web tools | LangChain basics | n8n production-style flows |
+| Practical project READMEs | Model evaluation and data cleaning | Cleaner developer workflows |
 
 ---
 
@@ -65,7 +65,7 @@ Building automation pipelines, AI-assisted workflows, applied ML projects, and u
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
-### AI / ML
+### Data / ML
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -73,20 +73,20 @@ Building automation pipelines, AI-assisted workflows, applied ML projects, and u
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
 
-### Agentic AI
+### AI Tooling
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
-![Tool Using Agents](https://img.shields.io/badge/Tool_Using_Agents-0F172A?style=flat&logo=githubcopilot&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat&logo=openai&logoColor=white)
+![Tool Use](https://img.shields.io/badge/Tool_Use-0F172A?style=flat&logo=githubcopilot&logoColor=white)
+![Prompt Design](https://img.shields.io/badge/Prompt_Design-7C3AED?style=flat&logo=openai&logoColor=white)
 
 ### Automation
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat&logo=zapier&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-111827?style=flat&logo=authelia&logoColor=white)
+![Automation Pipelines](https://img.shields.io/badge/Automation_Pipelines-111827?style=flat&logo=authelia&logoColor=white)
 
 ### Cloud & DevOps
 
@@ -162,10 +162,10 @@ Building automation pipelines, AI-assisted workflows, applied ML projects, and u
 
 | Repo | Why it matters |
 | --- | --- |
-| [KrishiDoot](https://github.com/Crs-Lionel/KrishiDoot) | Main active build surface for practical JavaScript/product work. |
-| [personality-prediction-project](https://github.com/Crs-Lionel/personality-prediction-project) | Applied ML project using Random Forest for personality prediction. |
-| [NOSmvp1](https://github.com/Crs-Lionel/NOSmvp1) | Python MVP workspace for product and automation experimentation. |
-| [akaay-creatives-website](https://github.com/Crs-Lionel/akaay-creatives-website) | Design-forward web project showing visual and frontend taste. |
+| [KrishiDoot](https://github.com/Crs-Lionel/KrishiDoot) | JavaScript project focused on a user-facing flow. |
+| [personality-prediction-project](https://github.com/Crs-Lionel/personality-prediction-project) | Applied ML practice: data handling, model training, and prediction flow. |
+| [NOSmvp1](https://github.com/Crs-Lionel/NOSmvp1) | Python workspace for testing product and automation ideas. |
+| [akaay-creatives-website](https://github.com/Crs-Lionel/akaay-creatives-website) | Frontend/design work with attention to presentation and visual clarity. |
 
 ---
 
@@ -188,6 +188,6 @@ Building automation pipelines, AI-assisted workflows, applied ML projects, and u
 <br />
 <br />
 
-<i>Open to collaborations, internships, automation builds, and useful AI workflow projects.</i>
+<i>Open to internships, collaborations, automation builds, and practical AI/web projects.</i>
 
 </div>
